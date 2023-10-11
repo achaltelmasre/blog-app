@@ -1,43 +1,87 @@
 [
+
     { 
         "id": 1,
-        "title": "How to create first web page" ,
-         "description": "This is my first blog",
-         "content": "I am going to create my first web page. we will use HTML, VS code and google chrome for this purpose. I am  going to create my first web page",
-         "author": "Sai",
-         "publishedDate": "2017-12-12T00:00:00.000Z"
+        "img":"https://www.godrejanand.org.in/blog/images/godrej/it-tech-park-near-devanahalli.webp",
+        "title": "IT Tech Park Near Devanahalli Bangalore" ,
+         "description": "Many IT parks are near the area. The area offers a lot of job conveniences. So, many people move towards the area in search of job offers. Some IT Tech Park Near Devanahalli are [1] Information Technology Investment Region [2]Aero SEZ  [3]The Business Park",
+
+         "content": "The proposed ITIR is an investment region. It is over an area of 40 Square km. It features Special Economic Zones. It is the biggest infrastructure project in the area. It will provide direct employment to a lot of people. The Special Economic Zone is another firm in the area. It is over 3000 acres of total land.The Business Park is another major landmark of the area. It is a project intended near the Global Airport. The area's Business Park is over 413.65 acres of land enclosure. The development stretches along National Highway 7.The upcoming projects in the locality are Science Park, Aerospace Park, and financial city. The Satellite Ring Road connects many areas. The IT Tech Park Near Devanahalli includes,The conveniences have made the locality the best area to invest. The area's Business Park is a project initiated by the government. It is over 408 acres. Infosys acquired 10-acre land. Shell and IFCI campuses will get completed. Hebbal is 8.2 km from the area. All major IT hubs are close to this locality. ",
+        "map": "https://maps.app.goo.gl/VhXwgxyhPQunPHDH9"
+     
     },
     {
         "id": 2,
-        "title": "How to create first web page" ,
-         "description": "This is my first blog",
-         "content": "I am going to create my first web page. we will use HTML, VS code and google chrome for this purpose. I am  going to create my first web page",
-         "author": "Sai",
-         "publishedDate": "2017-12-12T00:00:00.000Z"
+        "img": "https://im.whatshot.in/img/2022/May/cybercity-1653541909.jpg?w=835&h=557&cc=1",
+        "title": "IT Tech Park in Pune" ,
+         "description": "Pune is often reckoned as an IT hub along with being called the Oxford Of The East due to strong education system and great infrastructure. Though Bangalore is often called the Silicon Valley of India, Pune is known to have some of the biggest IT hubs! The IT parks in Pune are truly a lifestyle and an ecosystem that's quite advanced and self-reliant in many ways. Here’s a list of the top iconic IT Parks in Pune that you must know of.",
+
+         "content": "Situated in Magarpatta, Cybercity is one of the oldest and first-ever IT parks and township in Pune. Spread over a whopping 430 acres, Cybercity is a swanky glass tower IT park located inside Magarpatta City. The fully facilitated, advanced commercial building has an infrastructure to suit the needs of any IT company in an uncompromised manner with world-class facilities to enable high quality IT and ITES delivery. They have flexible office spaces so making switches based on your organisation structure is a cakewalk. The good part is you can always choose to stay in Magarpatta itself as the huge township has schools, malls, residences and a lot more. This would make your crazy deadlines and work-life easy. Currently, Cybercity has offices of brands like Qualitas IT Pvt Ltd, Maverick IT, Sybase An SAP Company, Accenture, Cape Gemini, Red Hat India Private Limited, HCL Technologies Limited and many more.",
+        "map": "https://maps.app.goo.gl/c1PRs6DsJDT4Eos27"
+    
     },
     {
         "id": 3,
-        "title": "How to create first web page" ,
-         "description": "This is my first blog",
-         "content": "I am going to create my first web page. we will use HTML, VS code and google chrome for this purpose. I am  going to create my first web page",
-         "author": "Sai",
-         "publishedDate": "2017-12-12T00:00:00.000Z"
+        "img":"https://www.shoutlo.com/uploads/articles/header-img-hyderabad-the-next-it-hub-of-india1.jpg",
+        "title": "Hyderabad- The Next IT Hub Of India" ,
+         "description": "Hyderabad has always been famous for its history, culture, language, tradition and most importantly, in my opinion, cuisine. In early 1950s Hyderabad undertook a great expansion as most of the Indian public enterprise like BHEL, BEL, DRDO, HAL, NMDC were established. In the 1970s, pharma and electronic industries were established. However, it was the early 1990s, the economic pattern of the city changed with the entry of most diversified IT industry in Hyderabad.",
+
+         "content": "Hyderabad is among the global centres of IT in the world with the evolution of IT Hub commonly called Cyberabad. The area was primarily created for the promotion of IT Infrastructure in the city with several IT zones. The development of technological infrastructure called Hitec City promoted several US-based companies to establish their operations in Hyderabad. The Major US-based IT firms like Google, Microsoft, Samsung, Motorola, Oracle, Yahoo, HP, Amazon.com, Texas Instruments, GE, Qualcomm, Facebook and many more are in Hyderabad. Microsoft’s largest R&D campus outside the US is in Hyderabad. Also, the major IT services firms of India like TCS, Wipro, HCL, Tech Mahindra, Cognizant have development centres in the city.",
+         "map": "https://maps.app.goo.gl/9TEVrecgodZ6bJyX9"
+        
+ 
     },
     {
         "id": 4,
-        "title": "How to create first web page" ,
-         "description": "This is my first blog",
-         "content": "I am going to create my first web page. we will use HTML, VS code and google chrome for this purpose. I am  going to create my first web page",
-         "author": "Sai",
-         "publishedDate": "2017-12-12T00:00:00.000Z"
+        "img":"https://orelpc.com/img/image-23.png",
+        "title": " IT Parks in Chennai" ,
+         "description": " DLF Cybercity is developed by DLF Assets LTD. One of India’s most successful SEZ developments in the Southern Region of India located in Mount Poonamallee Road. It’s a World-class development, spread across 46 acres complex with 8.3 million sqft operational with Platinum LEED certificate.",
+
+         "content": "The Project comprises of 13 blocks Approx of 417900 sqft with a typical floor plate of 38000 sqft. Further the development has mix of retail formats, outdoor sports facilities, café, health and wellness center with food court, day care, medical center, etc. Designed along the lines of a campus – an architectural breakthrough from conventional office structures – it allows open breathing spaces and verdant green zones amidst office blocks. The location is well connected with Airport and other public transport and accessible to both GST Road as well as OMR.",
+         "map" : "https://maps.app.goo.gl/GDw5S8mSrG36TaHC9"
+     
+        
     },
     {
         "id": 5,
-        "title": "How to create first web page" ,
-         "description": "This is my first blog",
-         "content": "I am going to create my first web page. we will use HTML, VS code and google chrome for this purpose. I am  going to create my first web page",
-         "author": "Sai",
-         "publishedDate": "2017-12-12T00:00:00.000Z"
+         "img": " https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/04/bb904-it-parks-in-delhi.jpg?fit=1000%2C592&ssl=1 ",
+        "title": "IT Parks in Delhi" ,
+         "description": "IT parks in Delhi are the hidden gems of the city. Okay, maybe that title still belongs to the many historical monuments tucked away in the nation’s capital. But though the old and upcoming IT parks in Delhi, like those monuments, are not as well known, they definitely ought to be. Because when it comes to Infrastructure and scale, the very best IT tech parks in Delhi are not just matched for the popular ones in Bangalore or Hyderabad. They can straight up give international IT parks competition. Let’s just say IT tech Parks in Delhi hit the ball out of the park.",
+
+         "content": "If you’ve been to Delhi, the chances that you haven’t taken or heard of the metro are slim. But it’s not surprising if you haven’t heard of Delhi IT Park, located next to Shastri Park metro station. It is owned by Delhi Metro Rail Corporation (who knew they owned IT parks too?!) and has a vast green campus. While employees enjoy the scenic beauty, quietness and workouts at the local gym here, one of their complaints is about having to catch a bus or train just to have a samosa (or salad when they’re just done working out) as there are no good restaurants within walking distance.",
+         "map": "https://maps.app.goo.gl/WadD5dms51CwFtUA9"
+         
+    },
+    {
+        "id": 6,
+         "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wipro_Kolkata_KDC_Campus_building_055249.jpg/1200px-Wipro_Kolkata_KDC_Campus_building_055249.jpg ",
+        "title": "IT Parks in  Kolkata" ,
+         "description": "Kolkata is the main financial, commercial city of East India. Kolkata along with its metropolitan region is fast emerging as a destination for software technology and has seen a growing number of tech parks being built here.Major tech and IT hubs in Kolkata (precisely Kolkata Metropolitan Area or Greater Kolkata) are located at New Town, Salt Lake Sector-V and Bantala with a total estimated area of nearly 1000 Acres.",
+
+         "content": "Salt Lake (officially Bidhannagar) Sector V is the first and prime IT hub of the metropolitan area. Salt Lake Electronics Complex is India's first fully integrated Electronics Complex formed by Webel.[1] The oldest IT building in West Bengal as well as East India was constructed here in 1988 which is the SDF Building, which was planned as Electronics building but later upgraded to IT.",
+         "map":"https://maps.app.goo.gl/nC6Cf3LW72y2uB6HA"
+    },
+    {
+        "id": 7,
+         "img": " https://gumlet.assettype.com/knocksense%2F2023-04%2Fbcafca18-3a7d-4e40-b000-6ca18961cbe2%2FIndore_IT_Crystal_Park.jpg?auto=format%2Ccompress&fit=max&format=webp&w=1536&dpr=1.3 ",
+        "title": "IT Parks in  Indor" ,
+         "description": "Indore's new IT park, the work order for which will likely be issued by the start of next fiscal, will be built at a cost of ₹393 crore. The park will feature a slew of facilities including office spaces, lounges, cafeteria and plans are also underway to build a luxury 55-room hotel within the IT park.",
+
+         "content": "Furthermore, the proposed IT park in Indore will also fire on the sustainability front, being a green building where all the natural resources will be used optimally.And as for Indore's strides towards becoming India's next IT hub, the MPIDC (Madhya Pradesh Industrial Development Corporation) is also planning to come up with another IT park in the city, which will be Indore's fourth.",
+         "map":"https://maps.app.goo.gl/pKaYyt4yZRgmzRjp9"
+         
+  
+    },
+    {
+        "id": 8,
+         "img": "https://www.ithum62noida.in/img/IThum-world-noida.jpg ",
+        "title": "IT Parks in Noida" ,
+         "description": "IT parks in Noida are a different world of their own when compared to the rest of the city. When most people think of Noida, lavish malls, entertainment parks, and big townships are what come to mind. But if you get into your car and drive a little further out from the main city, you’ll hit the many upcoming tech parks in Noida.Though at first, when you spot the many gardens, open spaces, cafes, and food-courts with your favorite fast-food brands, you might be wondering where the IT in the IT parks in Noida is. Lol, don’t worry, that’s in the cool, modern office spaces, the fast internet, and the super talented coders and engineers that make them the best IT parks in Noida.",
+
+         "content": "In sharp contrast to the Software Technology Parks of India, Logix is one of the safest among the upcoming IT parks in Noida. That’s because there are many reliable companies here, the security is tight and the place is under surveillance 24*7. Plus, the people are polite, the campus is clean and since it’s right opposite a metro station, connectivity isn’t a problem, even during late hours.",
+         "map": "https://maps.app.goo.gl/dNfbXsBQ588xBMtL6"
+         
+        
     }
     
 

@@ -1,12 +1,25 @@
+
 .preview-post-card{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 100%;
-    width: 100%;
-    border-radius: 5px;
+    height: 500px;
+    width: 300px ;
+    border-radius: 10px;
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
-    background-color: #fff;
-    overflow: hidden;
-    transition: all 0.3 ease-in-out;
+    background-color: #d3b3b3;
+    padding: 10px;
+    margin: 20px; 
+}
+button{
+ background-color: rgb(15, 15, 105);
+ color: white;
+ padding: 10px;
+ border-radius: 20px;
+ font-size: 15px;
+ margin-left: 100px;
+ margin-bottom: 20px;
+ 
+}
+.map{
+    font-size: 22px;
+    color: rgb(246, 49, 5);
+    text-decoration: none;
 }

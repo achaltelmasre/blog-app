@@ -1,0 +1,16 @@
+.home{
+    background-image: url(./../../img/background-img.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    width: 100%;
+}
+.post-btn{
+    background-color: yellow;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+   margin-left: 100px;
+   border-radius: 20px;
+   font-size: 25px;
+}

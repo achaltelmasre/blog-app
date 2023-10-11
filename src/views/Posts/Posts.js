@@ -1,26 +1,28 @@
 import React from "react";
-
-import blogData from "./../../configs/blogs-data.json"
+import "./Posts.css";
+import blogData from "./../../configs/blogs-data.json";
 import PreviewPostCard from "../../component/PreviewPostCard/PreviewPostcard";
 
 function Posts() {
-    return (
-        <div>Posts
+  return (
+    <div>
+      <h1 className="post-heading">IT HUB IN INDIA</h1>
 
-        {
-            blogData.map((post, index) => {
-               return (
-                  <PreviewPostCard 
-                    key={index} 
-                    id={post.id}
-                     title={post.title}
-                     author={post.author}
-                  />
-               )
-            })
-        }
-       </div> 
-    )
+      {blogData.map((post, index) => {
+        return (
+        <div className="card-container">
+            <PreviewPostCard
+              key={index}
+              id={post.id}
+              img={post.img}
+              title={post.title}
+              author={post.author}
+            />
+          </div>
+        );
+      })}
+    </div>
+  );
 }
 
-export default Posts
+export default Posts;

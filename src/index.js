@@ -18,9 +18,14 @@ const router = createBrowserRouter([
     element: <Posts />
  },
  {
-    path: '/readpost',
+    path: '/post/read/:id',
     element: <ReadPost />
- }
+ },
+ {
+   path: '*',
+   element: <h1>404 Not Found</h1>
+}
+ 
 ])
 
 root.render(<RouterProvider router={router} />);
